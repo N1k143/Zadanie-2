@@ -1,9 +1,9 @@
 <template>
-<Forma></Forma>
+<Forma/>
 </template>
 
-<script>
-
+<script setup>
+import Forma from "./components/Forma.vue";
 </script>
 
 <style>
